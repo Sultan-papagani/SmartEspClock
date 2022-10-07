@@ -37,4 +37,14 @@ DS3231 by Andrew Wickert
 Dallas Temperature by Miles Burton
 ```
 
+## Bağlantı Şeması
+Nodemcu esp8266 için
+```
+ D1 -> SCL
+ D2 -> SDA
+ 3v3 voltu DS3231 için
+ VU pini (5V) LCD için
+ kullanabilirsiniz
+```
+
 
