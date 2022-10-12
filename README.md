@@ -16,6 +16,9 @@ uzaktan röle kontrolü   | eklenmedi!
 ## Nasıl Çalışıyor ?
 **Esp8266, internete bağlanarak hava durumu, saat gibi verileri alır ve saati RTC ye kaydederek sürekli olarak interneti kullanma ihtiyacı duymaz, internete erişim olmadığında RTC üzerinden saati gösterebilir, Alarmları buzzer üzerinden çalıştırabilir. Hava Durumu her 30 dk da yenilenir**
 
+## Daha doğrusu neden çalışmıyor ?
+**yapmaya üşendim açıkçası**
+
 ## Gerekli Malzemeler
 **Tüm parçalar internet üzerinden kolayca alınabilir, Lehime gerek yoktur**
 ```
